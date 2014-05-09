@@ -1,0 +1,17 @@
+---
+layout: default
+title: Home
+---
+
+<div class="section">
+
+h2. Welcome
+
+</div>
+<div class="post">
+
+Welcome to _Effective Programming's_ *Tutorials*
+
+Content soon to follow &hellip;
+
+</div>
